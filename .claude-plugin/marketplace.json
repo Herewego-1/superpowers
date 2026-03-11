@@ -16,5 +16,13 @@
         "email": "jesse@fsck.com"
       }
     }
+  ],
+  "marketplaces": [
+    {
+      "name": "gptaku-plugins",
+      "description": "GPTaku plugins for Claude Code — documentation guides, git onboarding, deep research, multi-agent orchestration, and more",
+      "source": "https://github.com/fivetaku/gptaku_plugins.git",
+      "install": "/plugin marketplace add fivetaku/gptaku_plugins"
+    }
   ]
 }
